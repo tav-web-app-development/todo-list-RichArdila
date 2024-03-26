@@ -47,11 +47,6 @@ const TASKS = [
       completed: true,
       name: "Start reading new book",
     },
-    {
-      dueDate: "2024-04-04",
-      completed: true,
-      name: "Schedule dentist appointment",
-    },
   ];
 
   export default function TaskList() {

@@ -4,7 +4,7 @@ import ToDo from '../src/components/todoList';
 function App() {
   return (
     <div>
-      <h1>My Task List</h1>
+      <h1>My To do List</h1>
       <ToDo /> 
     </div>
   );
